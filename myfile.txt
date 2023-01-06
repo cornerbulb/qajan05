@@ -1,0 +1,5 @@
+name =hena
+math=70
+science=59
+total=129
+average=64
